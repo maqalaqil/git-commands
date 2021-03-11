@@ -241,4 +241,4 @@ But this isn't something that you want to do with public repos.
 
 ```git push -f``` 
 ### Conclusion
-These commands can dramatically improve your productivity in Git. You don't have to remember them all – that's why I have written this cheat sheet. Bookmark this page for future reference or print it if you like.
+These commands can dramatically improve your productivity in Git. You don't have to remember them all – that's why I have written this cheat sheet. Fork this page for future reference or print it if you like.
